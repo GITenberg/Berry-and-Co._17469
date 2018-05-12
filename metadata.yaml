@@ -1,0 +1,30 @@
+_repo: Berry-and-Co._17469
+_version: 0.1.0
+alternative_title: Berry and Company
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Yates, Dornford
+    alias: Mercer, Cecil William
+    birthdate: 1885
+    deathdate: 1960
+    gutenberg_agent_id: '384'
+    url: http://www.gutenberg.org/2009/agents/384
+    wikipedia: http://en.wikipedia.org/wiki/Dornford_Yates
+description: ''
+gutenberg_issued: '2006-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17469'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcc 'PR'
+title: Berry and Co.
+url: http://www.gutenberg.org/ebooks/17469
